@@ -1,7 +1,7 @@
 # AI Solution Design Report
 
 
-###s Task 1 Choose a Business Domain
+### Task 1 Choose a Business Domain
 
 Agriculture
 
